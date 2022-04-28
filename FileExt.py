@@ -17,6 +17,7 @@
 #  structure (associative array in other languages)
 #
 #   version 1.0  17/03/22   Dave Herdman
+#   version 1.1  28/04/22   Dave Herdman
 #
 #   Developed using the Pycharm IDE
 #   See PyCharm help at https://www.jetbrains.com/help/pycharm/
